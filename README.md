@@ -8,4 +8,4 @@ Hello! My name is Laura. I recently completed a coding boot camp where I spent t
 My formal training is in Pure Mathematics, and prior to this career change I was a mathematics publisher. My love of math drew me to a career in coding due to the more logical problem-solving aspects. I also am excited to transfer my design skills to this new medium. 
 
 <h2>Get in touch</h2>
-LinkedIn: https://www.linkedin.com/in/laura-kelly-0a7a07115/
+<a href="https://www.linkedin.com/in/laura-kelly-0a7a07115/">LinkedIn</a>
