@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/laurakelly1/laurakelly1/blob/main/image/title-image.png" />
+</p>
 <h1>Hi there 👋</h1>
 
 Hello! My name is Laura. I recently completed a coding boot camp where I spent time learning skills in HTML, CSS, JavaScript, jQuery, Python, and React. I enjoyed the fast-paced learning environment and the opportunity to spend time creating content that interests me. 
