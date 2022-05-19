@@ -15,7 +15,7 @@ My formal training is in Pure Mathematics, and prior to this career change I was
 <li>Node.js</li>
 
 <h2>Get in touch</h2>
-<a href="https://www.linkedin.com/in/laura-kelly-0a7a07115/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/laura-kelly-0a7a07115/">LinkedIn</a><br/>
 <a href="mailto:lkelly.laura@gmail.com">lkelly.laura@gmail.com</a>
 
 
