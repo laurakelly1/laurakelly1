@@ -13,6 +13,14 @@ My formal training is in Pure Mathematics, and prior to this career change I was
 <li>HTML5</li>
 <li>jQuery</li>
 <li>Node.js</li>
+<li>Express</li>
+<li>MongoDB and Mongoose</li>
+<li>React</li>
+
+<h2>CSS Boilerplates</h2>
+<li>Bootstrap</li>
+<li>Materialize</li>
+<li>Skeleton</li>
 
 <h2>Get in touch</h2>
 <a href="https://www.linkedin.com/in/lkelly-laura">LinkedIn</a><br/>
