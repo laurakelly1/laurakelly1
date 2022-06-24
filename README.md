@@ -10,6 +10,7 @@ My formal training is in Pure Mathematics, and prior to this career change I was
 <h2>Skills</h2>
 <li>JavaScript</li>
 <li>CSS3</li>
+<li>SASS</li>
 <li>HTML5</li>
 <li>jQuery</li>
 <li>Node.js</li>
