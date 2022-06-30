@@ -17,8 +17,12 @@ My formal training is in Pure Mathematics, and prior to this career change I was
 <li>Express</li>
 <li>MongoDB and Mongoose</li>
 <li>React</li>
+<li>Python</li>
+<li>django</li>
+<li>PostgreSQL</li>
 
 <h2>CSS Boilerplates</h2>
+<li>Material UI</li>
 <li>Bootstrap</li>
 <li>Materialize</li>
 <li>Skeleton</li>
