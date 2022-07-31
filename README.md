@@ -7,6 +7,10 @@ Hello! My name is Laura. I recently completed a coding boot camp where I spent t
 
 My formal training is in Pure Mathematics, and prior to this career change I was a mathematics publisher. My love of math drew me to a career in coding due to the logical problem-solving aspects. I also am excited to transfer my design skills to this new medium. 
 
+<a href='https://laurakelly.netlify.app/'>
+CHECK OUT MY PORTFOLIO HERE!!
+</a>
+
 <h2>Skills</h2>
 <li>JavaScript</li>
 <li>CSS3</li>
