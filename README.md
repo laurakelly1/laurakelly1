@@ -22,7 +22,7 @@ CHECK OUT MY PORTFOLIO HERE!!
 <li>MongoDB and Mongoose</li>
 <li>React</li>
 <li>Python</li>
-<li>django</li>
+<li>Django</li>
 <li>PostgreSQL</li>
 
 <h2>CSS Boilerplates</h2>
