@@ -1,9 +1,9 @@
 <p align="center">
 <img src="https://github.com/laurakelly1/laurakelly1/blob/main/image/title-image.png" />
 </p>
-<h1>Hi there 👋</h1>
+<h1>Hi there, my name is Laura 👋</h1>
 
-Hello! My name is Laura. I recently completed a coding boot camp where I spent time learning skills necessary for software engineering. I enjoyed the fast-paced learning environment and the opportunity to spend time creating content that interests me. 
+I recently completed a coding boot camp where I spent time learning skills necessary for software engineering. I enjoyed the fast-paced learning environment and the opportunity to spend time creating content that interests me. 
 
 My formal training is in Pure Mathematics, and prior to this career change I was a mathematics publisher. My love of math drew me to a career in coding due to the logical problem-solving aspects. I also am excited to transfer my design skills to this new medium. 
 
