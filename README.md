@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/laurakelly1/laurakelly1/blob/main/image/title-image.png" />
 </p>
-<h1>Hi there, my name is Laura 👋</h1>
+<h1>Hi there! 👋</h1>
 
 I recently completed a coding boot camp where I spent time learning skills necessary for software engineering. I enjoyed the fast-paced learning environment and the opportunity to spend time creating content that interests me. 
 
