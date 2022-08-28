@@ -19,19 +19,21 @@ CHECK OUT MY PORTFOLIO HERE!!
 <li>SASS</li>
 <li>HTML5</li>
 <li>jQuery</li>
-<li>Node.js</li>
-<li>Express</li>
+<li>Node JS</li>
+<li>Express JS</li>
 <li>MongoDB and Mongoose</li>
-<li>React</li>
+<li>React JS</li>
 <li>Python</li>
 <li>Django</li>
 <li>PostgreSQL</li>
+<li>Angular JS</li>
 
 <h2>CSS Boilerplates</h2>
 <li>Material UI</li>
 <li>Bootstrap</li>
 <li>Materialize</li>
 <li>Skeleton</li>
+<li>Material UI</li>
 
 <h2>Get in touch</h2>
 <a href="https://www.linkedin.com/in/lkelly-laura">LinkedIn</a><br/>
