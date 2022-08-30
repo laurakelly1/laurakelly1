@@ -18,6 +18,7 @@ CHECK OUT MY PORTFOLIO HERE!!
 <li>CSS3</li>
 <li>SASS</li>
 <li>HTML5</li>
+<li>TypeScript</li> 
 <li>jQuery</li>
 <li>Node JS</li>
 <li>Express JS</li>
