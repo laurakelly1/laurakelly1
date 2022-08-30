@@ -33,7 +33,6 @@ CHECK OUT MY PORTFOLIO HERE!!
 <li>Bootstrap</li>
 <li>Materialize</li>
 <li>Skeleton</li>
-<li>Material UI</li>
 
 <h2>Get in touch</h2>
 <a href="https://www.linkedin.com/in/lkelly-laura">LinkedIn</a><br/>
