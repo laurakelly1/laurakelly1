@@ -22,7 +22,8 @@ CHECK OUT MY PORTFOLIO HERE!!
 <li>jQuery</li>
 <li>Node JS</li>
 <li>Express JS</li>
-<li>MongoDB and Mongoose</li>
+<li>MongoDB</li>
+<li>Mongoose</li>
 <li>React JS</li>
 <li>Python</li>
 <li>Django</li>
