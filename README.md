@@ -15,20 +15,23 @@ CHECK OUT MY PORTFOLIO HERE!!
 
 <h2>Skills</h2>
 <li>JavaScript</li>
+<li>TypeScript</li> 
 <li>CSS3</li>
 <li>SASS</li>
 <li>HTML5</li>
-<li>TypeScript</li> 
 <li>jQuery</li>
+<li>Python</li>
+
+<h2>Frameworks</h2>
 <li>Node JS</li>
 <li>Express JS</li>
-<li>MongoDB</li>
-<li>Mongoose</li>
 <li>React JS</li>
-<li>Python</li>
-<li>Django</li>
-<li>PostgreSQL</li>
 <li>Angular JS</li>
+<li>Django</li>
+
+<h2>Databases</h2>
+<li>MongoDB and Mongoose</li>
+<li>PostgreSQL</li>
 
 <h2>CSS Boilerplates</h2>
 <li>Material UI</li>
